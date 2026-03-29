@@ -1,4 +1,4 @@
-6# AI Engineer Roadmap 202
+6# AI Engineer Roadmap 2026
 
 ## What Does An AI Engineer Do? [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=y8qRq9PMCh8)
 
